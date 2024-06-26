@@ -7,7 +7,7 @@
         "symfony/css-selector": "^6.4|^7.0",
         "symfony/dom-crawler": "^7.1",
         "symfony/http-client": "^4.4|^5.0|^6.0",
-        "symfony/mime": "^4.4|^5.0|^6.0"
+        "symfony/mime": "^6.4|^7.0"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "^6.0"
